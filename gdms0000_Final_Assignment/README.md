@@ -76,7 +76,7 @@ Study the hillshade model in direction East-North-East of the burial mounds area
 
 **Spatio-Temporal Data Anmination using PostGIS together with QGIS Temporal Controller**
 
-In the last lectures we downloaded and engineered the OpenHygrisC groundwater quality data. We loaded the station info as well as the measurement data into the geodatabase. You can have a look at the two last lecture videos from last year's course starting with `Dr. B.: Geodata - 2023-01-20`. 
+In the last lectures we downloaded and engineered the OpenHygrisC groundwater quality data. We loaded the station info as well as the measurement data into the geodatabase. You can have a look at the two last lecture videos from last year's course starting with `Dr. B.: Geodata - 2023-01-20`. You can find last year's video recordings in [**this Dicord link**](https://discord.com/channels/696338534889685002/1024006210699153480).   
 
 The activity of producing movies of groundwater chemistry data was not fully accomplished during the lecture phase but Prof. Becker continued and improved the training material in the scope of the funded project OpenHyPE. You can find his latest software versions [**here**](https://github.com/rolfbecker/OpenHyPE).
 
