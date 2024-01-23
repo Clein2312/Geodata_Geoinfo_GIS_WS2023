@@ -51,13 +51,13 @@ $$
 $$
 
 ## 2. Improved Warming Stripes and Interpolation (15 Points)
-**Sub-Task 1.5:** <br>
+**Sub-Task 2.1:** <br>
 Improve your warming stripes representation by cleaning the dataset. Omit stations which are missing more than 95% of the dates that you are interested in analysing. 
 
-**Sub-Task 1.6:** <br>
+**Sub-Task 2.2:** <br>
 Correct the map of the active stations to display only the resulting stations from task 1.5
 
-**Sub-Task 1.7** <br>
+**Sub-Task 2.3** <br>
 Your taks is to investigate how well are the data points resulting from interpolation, more specifically Inverse Distance Weights Interpolations (IDW). For this, you should remove the measurements of Station 4104 (Regensburg) from your dataset. Use IDW to interpolate/predict the temperature for the position of this station and compare your interpolated values with the real measurements. Discuss your results.
 
 ## 3. Digitization: Burial Mounds in Uedemer Hochwald (10 Points)
@@ -104,7 +104,7 @@ Download the historical Soil Moisture Index data from the topsoil (up to 25 cm d
 Find a way to import the data in QGIS to use the temporal controller
 
 **Task 5.3**
-Genarate a video of the snapshots of the soil moisture index from 2010 to 2018 for the SMI_topsoil and another video for the SMI_totalsoil. Make sure to use an appropiate simbology (you can find an appropiate color scale an explanation of the SMI in the Drought Monitor Website).
+Genarate a video of the monthly snapshots of the soil moisture index from 2010 to 2018 for the SMI_topsoil and another video for the SMI_totalsoil. Make sure to use an appropiate simbology (you can find an appropiate color scale an explanation of the SMI in the Drought Monitor Website).
 
 
 ## 6. FREE EXERCISE (10 Points)
