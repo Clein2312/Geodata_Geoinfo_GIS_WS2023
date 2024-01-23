@@ -2,7 +2,7 @@
 
 ## 0. General Remarks
 
-1. This assignment is Only for the students of Environment and Energy. The groups formed by the **Msc.-Information Engineering and Computer Science will have a different assignement**
+1. This assignment is Only for the students of Environment and Energy. The groups formed by the **Msc.-Information Engineering and Computer Science will have a different assignment**
 2. Due date is **Monday 2024-02-29T23:59:59CET**. 
 1. You can withdraw from exam registration until a week before! 
 3. You do not have to write a formal report but you have to sketch the steps you have taken to do the analyses. The code you are uploading as well as additional documentation including a video has to **enable us to redo your work completely!** You must tell us which data you use and where to download it.
