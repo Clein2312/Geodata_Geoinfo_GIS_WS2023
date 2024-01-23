@@ -58,7 +58,7 @@ Improve your warming stripes representation by cleaning the dataset. Omit statio
 Correct the map of the active stations to display only the resulting stations from task 1.5
 
 **Sub-Task 1.7** <br>
-Your taks is to use Inverse Distance Weights Interpolations (IDW). For this, you should remove the measurements of Station 4104 (Regensburg) from your dataset. Use IDW to interpolate the temperature for the position of this station and compare your interpolated values with the real measurements.
+Your taks is to investigate how well are the data points resulting from interpolation, more specifically Inverse Distance Weights Interpolations (IDW). For this, you should remove the measurements of Station 4104 (Regensburg) from your dataset. Use IDW to interpolate/predict the temperature for the position of this station and compare your interpolated values with the real measurements. Discuss your results.
 
 ## 3. Digitization: Burial Mounds in Uedemer Hochwald (10 Points)
 
